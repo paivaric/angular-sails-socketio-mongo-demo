@@ -37,6 +37,6 @@ module.exports.adapters = {
 
   mongo: {
     module   : 'sails-mongo',
-    url      : 'mongodb://localhost:27017/YOUR_DB_NAME'
+    url      : 'mongodb://teste:teste@dharma.mongohq.com:10013/teste'
   }
 };

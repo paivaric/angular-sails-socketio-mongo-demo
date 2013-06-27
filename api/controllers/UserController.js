@@ -15,7 +15,7 @@ var UserController = {
 
 			function createUser(hash) {
 				User.create({
-          name:      req.param('name'),
+                    name:      req.param('name'),
 					email:     req.param('email'),
 					password:  hash
 				}).done(function(err,user){
