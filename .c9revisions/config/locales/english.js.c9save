@@ -1,0 +1,1 @@
+{"ts":1372201444578,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"/*\n* English string set\n*\n*/\nvar english = {\n\n};\nmodule.exports = english;"]],"start1":0,"start2":0,"length1":0,"length2":74}]],"length":74}
